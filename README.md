@@ -1,2 +1,3 @@
-# Firstproject-git-github
-First time using git and GitHub
+First Project - Test
+
+[Git basics](https://www.atlassian.com/git)
